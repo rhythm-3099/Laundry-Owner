@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "557755801477",
+    "firebase_url": "https://laundry-app-e2345.firebaseio.com",
+    "project_id": "laundry-app-e2345",
+    "storage_bucket": "laundry-app-e2345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557755801477:android:820eff2e06fcfbbf",
+        "android_client_info": {
+          "package_name": "com.example.prhyt.laundryadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557755801477-v5e3nm0lmrg7tt4ufgg19ucro57tfffl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "557755801477-v5e3nm0lmrg7tt4ufgg19ucro57tfffl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoKNcQWBSosZsOiRsWTiTDYgM5Eft-Es"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557755801477:android:ea4e82f85a9c36e3",
+        "android_client_info": {
+          "package_name": "com.example.prhyt.laundryownernew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557755801477-v5e3nm0lmrg7tt4ufgg19ucro57tfffl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "557755801477-v5e3nm0lmrg7tt4ufgg19ucro57tfffl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoKNcQWBSosZsOiRsWTiTDYgM5Eft-Es"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557755801477:android:cd9f17ce7d1c712b",
+        "android_client_info": {
+          "package_name": "com.example.prhyt.laundryuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557755801477-v5e3nm0lmrg7tt4ufgg19ucro57tfffl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "557755801477-v5e3nm0lmrg7tt4ufgg19ucro57tfffl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSoKNcQWBSosZsOiRsWTiTDYgM5Eft-Es"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
